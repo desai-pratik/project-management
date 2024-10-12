@@ -38,25 +38,5 @@ export const dummyData= [
       amount: 3000,
       status: "unpaid",
     },
-  },
-  {
-    id: 4,
-    name: "Social Media Marketing",
-    dueDate: "2024-02-05",
-    status: "Active",
-    payment: {
-      amount: 1200,
-      status: "unpaid",
-    },
-  },
-  {
-    id: 6,
-    name: "Content Creation",
-    dueDate: "2024-05-20",
-    status: "Completed",
-    payment: {
-      amount: 1700,
-      status: "paid",
-    },
   }
 ];
